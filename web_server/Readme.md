@@ -1,1 +1,1 @@
-Web server
+WEB SERVER
